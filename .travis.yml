@@ -1,4 +1,4 @@
-language:cpp
+language: cpp
 
 script:
   - g++ helloworld/hello.cc -o hello
